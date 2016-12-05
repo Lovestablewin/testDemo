@@ -1,15 +1,15 @@
 //
-//  DYZBTests.swift
-//  DYZBTests
+//  DYTests.swift
+//  DYTests
 //
 //  Created by admin on 2016/12/5.
 //  Copyright © 2016年 admin. All rights reserved.
 //
 
 import XCTest
-@testable import DYZB
+@testable import DY
 
-class DYZBTests: XCTestCase {
+class DYTests: XCTestCase {
     
     override func setUp() {
         super.setUp()
